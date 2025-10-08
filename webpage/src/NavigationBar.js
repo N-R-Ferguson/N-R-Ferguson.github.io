@@ -6,7 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 export default function NavigationBar() {
     return (
         <div>
-        <Navbar expand="lg">
+        <Navbar expand="lg" sticky="top">
           <Container>
             <Navbar.Brand href="#home">Nolan Ferguson</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -14,7 +14,10 @@ export default function NavigationBar() {
               <Nav>
                 <Nav.Link href="#home">Home</Nav.Link>
                 <NavDropdown title="Projects">
-                  
+                  <NavDropdown.Item >Project 1</NavDropdown.Item>
+                  <NavDropdown.Item >Project 2</NavDropdown.Item>
+                  <NavDropdown.Item >Project 3</NavDropdown.Item>
+                  <NavDropdown.Item >Project 4</NavDropdown.Item>
                 </NavDropdown>
               </Nav>
             </Navbar.Collapse>
