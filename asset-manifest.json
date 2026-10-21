@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/webpage/static/css/main.dadbaf49.css",
-    "main.js": "/webpage/static/js/main.17fdb7a6.js",
-    "static/js/453.dff7199f.chunk.js": "/webpage/static/js/453.dff7199f.chunk.js",
-    "static/media/logo.svg": "/webpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/webpage/index.html",
-    "main.dadbaf49.css.map": "/webpage/static/css/main.dadbaf49.css.map",
-    "main.17fdb7a6.js.map": "/webpage/static/js/main.17fdb7a6.js.map",
-    "453.dff7199f.chunk.js.map": "/webpage/static/js/453.dff7199f.chunk.js.map"
+    "main.css": "/N-R-Ferguson.github.io/static/css/main.dadbaf49.css",
+    "main.js": "/N-R-Ferguson.github.io/static/js/main.8bb89245.js",
+    "static/js/453.dff7199f.chunk.js": "/N-R-Ferguson.github.io/static/js/453.dff7199f.chunk.js",
+    "static/media/logo.svg": "/N-R-Ferguson.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/N-R-Ferguson.github.io/index.html",
+    "main.dadbaf49.css.map": "/N-R-Ferguson.github.io/static/css/main.dadbaf49.css.map",
+    "main.8bb89245.js.map": "/N-R-Ferguson.github.io/static/js/main.8bb89245.js.map",
+    "453.dff7199f.chunk.js.map": "/N-R-Ferguson.github.io/static/js/453.dff7199f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dadbaf49.css",
-    "static/js/main.17fdb7a6.js"
+    "static/js/main.8bb89245.js"
   ]
 }
