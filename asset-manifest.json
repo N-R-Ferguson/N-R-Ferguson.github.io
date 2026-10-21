@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/n-r-ferguson-pages/static/css/main.dadbaf49.css",
-    "main.js": "/n-r-ferguson-pages/static/js/main.80c11497.js",
+    "main.js": "/n-r-ferguson-pages/static/js/main.a3b00b04.js",
     "static/js/453.dff7199f.chunk.js": "/n-r-ferguson-pages/static/js/453.dff7199f.chunk.js",
     "static/media/logo.svg": "/n-r-ferguson-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/n-r-ferguson-pages/index.html",
     "main.dadbaf49.css.map": "/n-r-ferguson-pages/static/css/main.dadbaf49.css.map",
-    "main.80c11497.js.map": "/n-r-ferguson-pages/static/js/main.80c11497.js.map",
+    "main.a3b00b04.js.map": "/n-r-ferguson-pages/static/js/main.a3b00b04.js.map",
     "453.dff7199f.chunk.js.map": "/n-r-ferguson-pages/static/js/453.dff7199f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dadbaf49.css",
-    "static/js/main.80c11497.js"
+    "static/js/main.a3b00b04.js"
   ]
 }
